@@ -1,4 +1,4 @@
-package com.urielphic.push_notifications
+package com.urielsanchez.push_notifications
 
 import io.flutter.embedding.android.FlutterActivity
 

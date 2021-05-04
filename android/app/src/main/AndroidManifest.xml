@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.urielphic.push_notifications">
+    package="com.urielsanchez.push_notifications">
    <application
         android:label="push_notifications"
         android:icon="@mipmap/ic_launcher">
